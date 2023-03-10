@@ -1,3 +1,5 @@
+
+
 * { 
     color: hsl(hue, saturation, lightness);
 }
@@ -7,7 +9,7 @@
      font-size: 36px;
 }
 
-.p  {
+p {
     background-color: pink;
     font-family: Verdana, "Dejavu sans", sans-serif;
 }
