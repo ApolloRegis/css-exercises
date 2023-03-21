@@ -48,5 +48,6 @@ a {
 ul {
   list-style-type: none;
   display: inline-flex;
+  gap: 10px;
 }
 
