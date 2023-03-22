@@ -37,6 +37,8 @@ button {
   background: rebeccapurple;
   color: white;
   padding: 8px 24px;
+  display: inline-flex;
+  align-items: center;
 }
 
 a {
