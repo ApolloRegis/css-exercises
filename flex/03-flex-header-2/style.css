@@ -39,6 +39,7 @@ button {
   padding: 8px 24px;
   display: inline-flex;
   align-items: center;
+  flex-basis: 200px;
 }
 
 a {
