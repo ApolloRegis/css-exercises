@@ -41,6 +41,7 @@ button {
   align-items: center;
   flex-basis: 200px;
   margin-right: 24px;
+  justify-content: center;
 }
 
 a {
