@@ -16,6 +16,11 @@ img {
   display: flex;
 }
 
+.content div {
+  display:flex;
+  flex-direction: column;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
